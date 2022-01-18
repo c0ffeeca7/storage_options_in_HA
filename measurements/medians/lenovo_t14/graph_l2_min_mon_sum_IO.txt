@@ -1,0 +1,24 @@
+SQLite Statistics - 2 days - reads: 2.095703125
+Influx DB - 2 days - reads: 121.951171875
+SQLite States - 2 days - reads: 17.130859375
+SQLite Statistics - 2 days - writes: 0.0
+Influx DB - 2 days - writes: 0.125
+SQLite States - 2 days - writes: 1.74609375
+SQLite Statistics - min/max - reads: 3.54296875
+Influx DB - min/max - reads: 173.630859375
+SQLite States- min/max - reads: 2716.1484375
+SQLite Statistics - min/max - writes: 0.0
+Influx DB - min/max - writes: 0.12890625
+SQLite States- min/max - writes: 399.38671875
+SQLite Statistics - mon/sun - reads: 3.03125
+Influx DB - mon/sun - reads: 179.16796875
+SQLite States - mon/sun - reads: 934.978515625
+SQLite Statistics - mon/sun writes: 0.0
+Influx DB - mon/sun - writes: 0.125
+SQLite States - mon/sun - writes: 114.8125
+SQLite Statistics - sum 3 phases - reads: 6.185546875
+Influx DB - sum 3 phases - reads: 261.744140625
+SQLite States - sum 3 phases - reads: 3150.5234375
+SQLite Statistics - sum 3 phases - writes: 0.0
+Influx DB - sum 3 phases - writes: 1.017578125
+SQLite States - sum 3 phases - writes: 865.56640625

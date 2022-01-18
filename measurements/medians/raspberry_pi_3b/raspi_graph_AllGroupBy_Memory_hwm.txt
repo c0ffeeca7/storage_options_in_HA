@@ -1,0 +1,16 @@
+Influx DB -  day: 203.76953125
+Timescale - day: 609.607421875
+SQLite States - day: 207.736328125
+SQLite Statistics - day: 3.796875
+Influx DB - week: 199.884765625
+Timescale - week: 610.037109375
+SQLite States - week: 206.828125
+SQLite Statistics - week: 3.806640625
+Influx DB - month: 204.501953125
+Timescale - month: 610.51953125
+SQLite States - month: 196.13671875
+SQLite Statistics - month: 3.86328125
+Influx DB  - year: 188.572265625
+Timescale - year: 609.236328125
+SQLite States - year: 185.947265625
+SQLite Statistics - year: 3.857421875

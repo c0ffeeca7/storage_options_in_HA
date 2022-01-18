@@ -1,0 +1,4 @@
+influxdb_client:
+  org: your-org
+  token: yourToken
+  bucket: energy-data

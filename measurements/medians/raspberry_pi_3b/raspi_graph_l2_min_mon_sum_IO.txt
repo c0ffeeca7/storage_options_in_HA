@@ -1,0 +1,12 @@
+SQLite Statistics - 2 days - reads: 1.75390625
+Influx DB - 2 days - reads: 107.8671875
+SQLite States - 2 days - reads: 16.91015625
+SQLite Statistics - min/max - reads: 2.43359375
+Influx DB - min/max - reads: 136.009765625
+SQLite States- min/max - reads: 1595.9765625
+SQLite Statistics - mon/sun - reads: 2.30859375
+Influx DB - mon/sun - reads: 135.498046875
+SQLite States - mon/sun - reads: 509.05078125
+SQLite Statistics - sum 3 phases - reads: 3.33984375
+Influx DB - sum 3 phases - reads: 0.0
+SQLite States - sum 3 phases - reads: 4633.005859375

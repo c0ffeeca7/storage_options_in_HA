@@ -1,0 +1,16 @@
+Influx DB - 2 days: 4.7716857555
+Timescale - 2 days: 8.3724235315
+SQLite States - 2 days: 3.3441586545
+SQLite Statistics - 2 days: 0.134081746
+Influx DB - min/max: 2.3764017849999997
+Timescale - min/max: 78.387667773
+SQLite States- min/max: 297.11299948550004
+SQLite Statistics - min/max: 0.261819868
+Influx DB - mon/sun: 2.330353189
+Timescale - mon/sun: 89.9907793895
+SQLite States - mon/sun: 88.311131073
+SQLite Statistics - mon/sun: 0.2175601335
+Influx DB - sum 3 phases: 0.0
+Timescale - sum 3 phases: 1052.923629957
+SQLite States - sum 3 phases: 353.2715431895
+SQLite Statistics - sum 3 phases: 0.2910938885

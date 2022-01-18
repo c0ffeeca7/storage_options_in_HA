@@ -1,0 +1,6 @@
+from(bucket: "energy-data-test-05")
+  |> range(start: 2020-11-14T00:00:00Z, stop: 2021-11-14T12:00:00Z)
+  |> filter(fn: (r) => r["entity_id"] == "phase1" or r["entity_id"] == "phase2" or r["entity_id"] == "phase3")
+  |> group(columns: ["entity_id"])
+  |> pivot(rowKey:["_time"], columnKey: ["entity_id"], valueColumn: "_value")
+  |> map(fn: (r) => ({r with _value: r.phase1 + r.phase2 + r.phase3} ))

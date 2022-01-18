@@ -1,0 +1,12 @@
+Influx DB reads - day: 135.255859375
+SQLite States reads - day: 1608.6796875
+SQLite Statistics reads - day: 2.43359375
+Influx DB reads - week: 135.623046875
+SQLite States reads - week: 1608.80859375
+SQLite Statistics reads - week: 2.43359375
+Influx DB reads - month: 135.330078125
+SQLite States reads - month: 1599.740234375
+SQLite Statistics reads - month: 2.43359375
+Influx DB reads - year: 135.7578125
+SQLite States reads - year: 1592.751953125
+SQLite Statistics reads - year: 2.43359375

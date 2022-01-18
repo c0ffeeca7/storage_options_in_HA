@@ -1,0 +1,6 @@
+from(bucket: "energy-data-test-05")
+  |> range(start: 2020-12-12T12:00:00Z, stop: 2020-12-14T12:00:00Z)
+  |> filter(fn: (r) => r["_measurement"] == "Wh")
+  |> filter(fn: (r) => r["_field"] == "value")
+  |> filter(fn: (r) => r["domain"] == "sensor")
+  |> filter(fn: (r) => r["entity_id"] == "phase1")

@@ -1,0 +1,12 @@
+Influx DB - day: 2.3093564835000002
+Influx DB - week: 2.2871205664999996
+Influx DB - month: 2.2792421210000002
+Influx DB - year: 2.2935247235
+Timescale - day: 78.72151376400001
+Timescale - week: 78.229954487
+Timescale - month: 78.2811294815
+Timescale: 78.33117238700001
+SQLite Statistics - day: 0.266578494
+SQLite Statistics - week: 0.2585846745
+SQLite Statistics - month: 0.2500203605
+SQLite Statistics - year: 0.247535534
